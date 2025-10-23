@@ -28,7 +28,7 @@ Utiliza `gcc` u otro compilador compatible:
 
 ## Autor
 
-**Alan Aquino**, estudiante de Ingeniería en Informática.
+Alan Aquino.
 
 ---
 
