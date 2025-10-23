@@ -4,7 +4,7 @@ Este programa implementa una agenda de contactos utilizando el lenguaje C y alma
 
 ---
 
-## 📋 Funcionalidades principales
+## Funcionalidades principales
 
 - **Añadir contacto:** Solicita nombre, teléfono y email, y los guarda en el archivo `contactos.csv`.
 - **Listar contactos:** Muestra en pantalla todos los contactos registrados.
@@ -15,7 +15,7 @@ Este programa implementa una agenda de contactos utilizando el lenguaje C y alma
 
 ---
 
-## ⚙️ Compilación y ejecución
+## Compilación y ejecución
 
 Utiliza `gcc` u otro compilador compatible:
 
